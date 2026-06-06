@@ -159,7 +159,3 @@ python src/iris_classification.py
 ## 👩‍💻 Author
 
 **Mahathi Vaka**
-
-Computer Science and Business Systems (CSBS) Student
-
-Passionate about Machine Learning, Data Analytics, Business Analytics, and AI.
